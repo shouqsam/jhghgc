@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "720420293560",
+    "project_id": "breakfastcanteen-c5c4c",
+    "storage_bucket": "breakfastcanteen-c5c4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720420293560:android:7eab4c0ae29afd41d75d4d",
+        "android_client_info": {
+          "package_name": "com.example.breakfastcanteen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx2JzMP-QWD7IWOzIAyRCtpcsiIOJElpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
